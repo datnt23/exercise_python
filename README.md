@@ -1,1 +1,1 @@
-# Open terminal and Enter -> python3 "Your file .py if you want run" ádfasdfasdf
+# Open terminal and Enter -> python3 "Your file .py if you want run"
