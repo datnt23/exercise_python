@@ -1,1 +1,1 @@
-# Open terminal and Enter -> python3 "Your file .py if you want run"
+# Open terminal and Enter -> python3 "Your file .py if you want run" mau
